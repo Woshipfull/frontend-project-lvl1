@@ -28,7 +28,7 @@ function commonElements(coll1, coll2) {
 }
 
 function bubbleSort(coll) {
-  let stepCount = coll.length - 1
+  let stepCount = coll.length - 1;
   let swapped;
   do {
     swapped = false;
