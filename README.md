@@ -5,3 +5,5 @@
 https://asciinema.org/a/J1zuGNZcAcqxDrM6503MvpIqt - brain-even game + install;
 
 https://asciinema.org/a/yFm7n7rzJKiCeluH2EnEUQCp8 - brain-calc game;
+
+https://asciinema.org/a/0VWv6oXGB4y4fTdOdJ8aOz8rL - brain-gcd game;
